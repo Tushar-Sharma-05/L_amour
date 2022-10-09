@@ -1,0 +1,20 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/tabi",
+        "prod_uri":"mysql://root:@localhost/tabi",
+        "fb_url":"https://facebook.com/tabi",
+        "tw_url":"https://twitter.com/tabi",
+        "gh_url":"https://github.com/tabi",
+        "blog_name":"L'AMOUR",
+        "tagline":"A Blog liked by the programmers",
+        "gmail-user":"tusharsh180305@gmail.com",
+        "gmail-password":"adqnbvukaqnqjnnx",
+        "about_text":"Hi i'm tushar sharma and i'm a developer ",
+        "no_of_post":3,
+        "login_image":"bootstrap-logo.svg",
+        "admin_user":"tushar",
+        "admin_password":"tushar",
+        "upload_location":"C:\\Users\\hp\\Desktop\\Tabi"
+    }
+}
